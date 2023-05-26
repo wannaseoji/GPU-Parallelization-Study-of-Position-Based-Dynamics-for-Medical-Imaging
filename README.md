@@ -2,7 +2,7 @@
 ##  1. 논문 : Position Based Dynamics의 GPU 병렬화 연구 (심사중)
 
 
-##  2. Demos : 데모입니다. 
+##  [2. Demos : 데모입니다. ](https://github.com/wannaseoji/GPU-Parallelization-Study-of-Position-Based-Dynamics/tree/main/Demos)
 + miniPBD : openGL로 렌더링하고, c, c++로 개발한 PBD입니다.
 
 

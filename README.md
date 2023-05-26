@@ -6,7 +6,7 @@
 + miniPBD : openGL로 렌더링하고, c, c++로 개발한 PBD입니다.
 
 
-+ miniPBD_GPU : GPU로 병렬처리된 miniPBD입니다.
++ miniPBD_GPU : Nvidia CUDA C++을 통해, 연산의 병목을 GPU로 병렬처리한 miniPBD입니다.
 
 
 + 시뮬레이션 : ct 데이터를 이용한 가상 의료 시뮬레이션 프로그램을 사용한 실험입니다.

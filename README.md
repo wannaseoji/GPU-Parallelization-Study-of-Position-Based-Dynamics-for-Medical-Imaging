@@ -1,6 +1,6 @@
 # GPU-Parallelization-Study-of-Position-Based-Dynamics
 논문 : Position Based Dynamics의 GPU 병렬화 연구 (심사중)
-Demos : 데모입니다.
+Demos : 데모입니다. \n
         miniPBD : openGL로 렌더링하고, c, c++로 개발한 PBD입니다.
         miniPBD_GPU : GPU로 병렬처리된 miniPBD입니다.
         시뮬레이션 : ct 데이터를 이용한 가상 의료 시뮬레이션 프로그램을 사용한 실험입니다.

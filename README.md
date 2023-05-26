@@ -15,7 +15,7 @@
         
         
        
-##  3. [experiments](https://github.com/wannaseoji/GPU-Parallelization-Study-of-Position-Based-Dynamics/tree/main/Experiments) : 실험 결과들을 정리해놓은 엑셀입니다.
+##  3. [Experiments](https://github.com/wannaseoji/GPU-Parallelization-Study-of-Position-Based-Dynamics/tree/main/Experiments) : 실험 결과들을 정리해놓은 엑셀입니다.
 
 
-##  4. [procedure](https://github.com/wannaseoji/GPU-Parallelization-Study-of-Position-Based-Dynamics/tree/main/procedure) : 논문 과정 중 나온 그림, ppt등의 자료입니다.
+##  4. [Procedures](https://github.com/wannaseoji/GPU-Parallelization-Study-of-Position-Based-Dynamics/tree/main/procedure) : 논문 과정 중 나온 그림, ppt등의 자료입니다.

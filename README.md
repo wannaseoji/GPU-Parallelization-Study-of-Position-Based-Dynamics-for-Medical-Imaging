@@ -1,5 +1,5 @@
 # GPU-Parallelization-Study-of-Position-Based-Dynamics
-##  1. 논문 : Position Based Dynamics의 GPU 병렬화 연구 (심사중)
+##  [1. 논문 : Position Based Dynamics의 GPU 병렬화 연구 (심사중)](https://github.com/wannaseoji/GPU-Parallelization-Study-of-Position-Based-Dynamics/blob/main/%EC%84%9C%EC%A7%80%EC%99%84_PBD.pdf)
 
 
 ##  [2. Demos : 데모입니다. ](https://github.com/wannaseoji/GPU-Parallelization-Study-of-Position-Based-Dynamics/tree/main/Demos)

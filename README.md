@@ -1,5 +1,5 @@
 # GPU-Parallelization-Study-of-Position-Based-Dynamics
-##  1. [논문](https://github.com/wannaseoji/GPU-Parallelization-Study-of-Position-Based-Dynamics/blob/main/%EC%84%9C%EC%A7%80%EC%99%84_PBD.pdf) : 위치 기반 역학의 병렬화 연구 (수정 후 게재)
+##  1. [논문](https://github.com/wannaseoji/GPU-Parallelization-Study-of-Position-Based-Dynamics/blob/main/%EC%84%9C%EC%A7%80%EC%99%84_PBD.pdf) : 위치 기반 역학의 GPU 병렬화 연구 (수정 후 게재)
 
 
 ##  2. [Demos](https://github.com/wannaseoji/GPU-Parallelization-Study-of-Position-Based-Dynamics/tree/main/Demos) : 데모입니다. 

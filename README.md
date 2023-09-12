@@ -13,7 +13,7 @@
   
   <p align ="center">
 - Basic GPU Parallelized PBD<br>
-  <img src="">
+  <img src="https://github.com/wannaseoji/GPU-Parallelization-Study-of-Position-Based-Dynamics/assets/91694379/4e46cd9d-d45c-4201-820b-e13e210523b7">
   </p>
    <p align ="center">
 - Impulse-Based Collision Handling Edge Rendering <br>

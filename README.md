@@ -1,4 +1,4 @@
-# GPU-Parallelization-Study-of-Position-Based-Dynamics
+
 ##  1. 서지완, 박채림, 조세홍 and 계희원. (2023). 의료영상을 위한 위치 기반 역학의 GPU 병렬화 연구. 한국차세대컴퓨팅학회 논문지, 19(3), 19-28.
 
 

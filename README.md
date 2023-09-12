@@ -10,7 +10,27 @@
 
 
 + 시뮬레이션 : ct 데이터를 이용한 가상 의료 시뮬레이션 프로그램을 사용한 실험입니다.
-
+  
+  <p align ="center">
+- Basic GPU Parallelized PBD<br>
+  <img src="">
+  </p>
+   <p align ="center">
+- Impulse-Based Collision Handling Edge Rendering <br>
+  <img src="">
+  </p>
+   <p align ="center">
+- Impulse-Based Collision Handling<br>
+  <img src="https://github.com/wannaseoji/GPU-Parallelization-Study-of-Position-Based-Dynamics/assets/91694379/e02f1672-7ecf-4506-b1d5-81903721cacc">
+  </p>
+   <p align ="center">
+- Incision1<br>
+  <img src="">
+  </p>
+  <p align ="center">
+- Incision2<br>
+  <img src="">
+  </p>
         
         
        
